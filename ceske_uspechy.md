@@ -31,12 +31,17 @@
     - Americká armáda využívala pro trénování vojáku (https://bisimulations.com/products/vbs3)
     - Z modů pro ArmA vyšli slavné hry jako PUBG (puvodne mód pro ArmA 3) nebo DayZ (původně mód pro ArmA 2)
 
-- Machinarium & Botanicula 
+- **Vietcong**
+    - Propracovaný příběh a dabing
+
+- **Machinarium** & **Botanicula** 
     - vývojáři *Amanita Design*
     - umělěcké point-and-click adventůry "bez jazyka" (využívaní obrázku a prostředí pro vyprávění příběhu)
     - Machinarium původně postavené na Flash
 
-
+- Herní serie: **Polda**
+    - komediální point-and-click adventura
+    - hlavní hrdina policajt Pankráce
 
 
 
@@ -46,3 +51,4 @@ https://www.databaze-her.cz/hry/mafia-the-city-of-lost-heaven/zajimavosti/
 https://en.wikipedia.org/wiki/Beat_Saber
 https://cs.wikipedia.org/wiki/Kingdom_Come:_Deliverance
 https://www.idnes.cz/hry/magazin/nejznamejsi-ceske-hry-ocima-zahranicnich-recenzentu.A170322_221650_bw-magazin_bze
+https://www.redbull.com/cz-cs/nostalgicky-ctvrtek-legendarni-ceske-hry
