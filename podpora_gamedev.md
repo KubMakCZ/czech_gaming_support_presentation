@@ -21,7 +21,7 @@ Game developing bude psáno/zkráceno jako *gamedev*
 - **Poté si vybrat v čem a ják budu vytvářet hry:**  
   - Sám nebo v týmu?
   - Jaký engine (herní prostředí) budu používat?
-    - Unity, Core, Unreal Engine, CryEngine, Godot, a mnoho více  
+    - Unity, Core, GameMaker,  Unreal Engine, CryEngine, Godot, a mnoho více  
   - Kolik do toho dám času a peněz?
   - Na co se budu zameřovat dříve či později?
   - Chci na tom vydělat tak jak?
