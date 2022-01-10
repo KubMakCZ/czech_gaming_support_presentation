@@ -32,10 +32,10 @@ Pro herní fakta nebo *TOP herní téma* je docelá známy [YouTuber Nerd Adam](
 Herních pořadu v ČR/SK je málo. Mezi nejznámější je na [YouTube Indian TV](). Dlouhodobě na TV je [RE-PLAY - herní pořad](https://www.youtube.com/c/REPLAYhern%C3%ADpo%C5%99ad/).
 
 ## E-sport (Elektronický sport)
-E-sport neboli Elektronický sport, je odvětví kde se hrajou *sportovně* počitačové hry. Nejčastějí hrané tzv. e-sport tituly jsou a jejich žánr a krátký popis:
+E-sport neboli Elektronický sport, je odvětví kde se hrajou *sportovně* počitačové hry. Nejčastějí hrané tzv. e-sport tituly jsou:
 - League of Legends
 - Dota 2
-- Counter-Strike: Global Offensive - taktická 5v5 střílečka z první osoby kde hrajou Teroristi a Counter-teroristi (specialná policisté) a při každém kole se řeší nákup zbraní
+- Counter-Strike: Global Offensive 
 - Valorant
 - Overwatch
 - Tom Clancy's Rainbow Six: Siege
