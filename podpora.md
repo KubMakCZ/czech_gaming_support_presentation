@@ -16,6 +16,12 @@ příklady:
 ## Herní přednášky
 Živé přednášky od profesionálů/amatérů a poslouchat příběhy jak vznikaly scénáře, ilustrace nebo přednášky o ruzných herních odvětvých (*využití AI, přetváření realného prostředí do hry, architektura, využití her*). A velká výhoda je následná diskuze, kde posluchači můžou podat své otázky.
 
+## Vzdělání
+Lze rozšírit programování za pomocí programování her.
+
+## Gamifikace
+Gamifikace je zlepšení/ovlivnění odměnování některé činosti. Za pomocí gamifikace lze si zlepšit některé nudné práce. Např. Když uklidím tak moje fiktivní postava dostane +5 zkušeností do další úrovně. Záleží jak gamifikaci využít. Hodně se využíva v marketingu
+
 ## Podcast nebo rozhovor
 Rozhovory z herního prosředí. Přes herní režíséry až po ilustrátory.
 
@@ -41,3 +47,10 @@ E-sport neboli Elektronický sport, je odvětví kde se hrajou *sportovně* poč
 - Heartstone
 - Mortal Kombat
 - Super Smash Bros. Ultimate
+
+
+
+
+
+# Zdroje
+https://cs.wikipedia.org/wiki/Gamifikace
