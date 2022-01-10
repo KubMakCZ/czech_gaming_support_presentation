@@ -48,7 +48,7 @@ E-sport neboli Elektronický sport, je odvětví kde se hrajou *sportovně* poč
 - Mortal Kombat
 - Super Smash Bros. Ultimate
 
-
+## Veřejné akce
 
 
 
