@@ -42,3 +42,4 @@ offline myšleno jako na místě nějaké akce nebo přímo akce na dané téma.
 - **YouTube** - pokud by byli lidi kteří by více podporovali video ze své tvorby her jako to dělá např. ***Masoro** se svym zábavným zplsobem* [AgrGun](https://www.youtube.com/watch?v=ypUtpg079xo) nebo [parodie hry Bulánci ve 3D](https://www.youtube.com/watch?v=BHweIgsefOI&t=472s)
 - **Podcast** - Rozhovory nebo povídání o herní scéně
 - **Knihy** - knihy mužou být jen o historii nebo o jednotlivém vývoji nebo okruhu ohledně gamedev. Např. nakladatelsví Packt vydává různé knihy o vývoji jednotlivých okruhů - [Packt Unity knížky](https://www.packtpub.com/tech/unity)
+- **CZ/SK herní platforma pro indie vývojáře** - platforma podobná itch.io, kde vývojáři můžou sdílet svoje hry, dostávat hodnocení a komentovatáře od komunity

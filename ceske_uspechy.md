@@ -43,12 +43,16 @@
     - komediální point-and-click adventura
     - hlavní hrdina policajt Pankráce
 
+- **Ve stínu Havrana**
+  - česká point-and-click adventůra
+  - vtipný dabing
 
-
-
+- **Memento Mori**
+  - vývojáři *Centauri Production*
+  - temná adventura
 ## Zdroje
-https://www.databaze-her.cz/hry/mafia-the-city-of-lost-heaven/zajimavosti/
-https://en.wikipedia.org/wiki/Beat_Saber
-https://cs.wikipedia.org/wiki/Kingdom_Come:_Deliverance
-https://www.idnes.cz/hry/magazin/nejznamejsi-ceske-hry-ocima-zahranicnich-recenzentu.A170322_221650_bw-magazin_bze
-https://www.redbull.com/cz-cs/nostalgicky-ctvrtek-legendarni-ceske-hry
+- https://www.databaze-her.cz/hry/mafia-the-city-of-lost-heaven/zajimavosti/
+- https://en.wikipedia.org/wiki/Beat_Saber
+- https://cs.wikipedia.org/wiki/Kingdom_Come:_Deliverance
+- https://www.idnes.cz/hry/magazin/nejznamejsi-ceske-hry-ocima-zahranicnich-recenzentu.A170322_221650_bw-magazin_bze
+- https://www.redbull.com/cz-cs/nostalgicky-ctvrtek-legendarni-ceske-hry
